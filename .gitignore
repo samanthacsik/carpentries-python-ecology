@@ -1,2 +1,5 @@
 # add env directory (https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 carpe/
+
+# add .DS_Store
+.DS_Store
